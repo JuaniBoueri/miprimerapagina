@@ -152,3 +152,39 @@ main {
 .greeting {
     text-align: center;
 }
+
+.alerta {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Juani {
+    display: flex;
+    align-items: center;
+}
+
+.containerservicios {
+    font-size: 30px;
+}
+
+.servicios {
+    font-size: 20px;
+    margin: 50px;
+    border: 1px solid black;
+}
+
+.formulario {
+    margin: 50px;
+    font-size: 20px;
+    padding: 10px;
+    border: 1px solid #192F8C;
+}
+
+.contacto {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
